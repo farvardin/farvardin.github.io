@@ -2,9 +2,10 @@
 
 
 %!target: html  
-%!options: --outfile index.html 
+%!options:  --outfile index.html 
+%!style: sample.css
 
 Here are my pages on github, to present some of my projects.
 
-- [hovercraft-t2t hovercraft-t2t]
+- [a sample for hovercraft-t2t hovercraft-t2t/sample]
 - [textallion textallion] //(not yet)//
